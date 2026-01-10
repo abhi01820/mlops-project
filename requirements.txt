@@ -1,9 +1,12 @@
 pandas
-numpy 
+numpy
 seaborn
 matplotlib
 scikit-learn
 catboost
 xgboost
 dill
+fastapi
+uvicorn
+pydantic
 # -e .
