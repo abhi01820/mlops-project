@@ -1,4 +1,2 @@
 .dvc/
 *.dvc
-/artifacts/*.pkl
-/artifacts/*.csv

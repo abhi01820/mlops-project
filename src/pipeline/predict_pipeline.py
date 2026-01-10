@@ -31,7 +31,7 @@ class PredictPipeline:
 			preprocessor = self._load_object(self.preprocessor_path)
 			transformed = preprocessor.transform(features)
 			return model.predict(transformed)
-		except Exception as exc:  # pragma: no cover - error path wrapper
+		except Exception as exc:
 			raise CustomException(exc, sys) from exc
 
 	def predict_from_dict(self, payload: Dict[str, Any]) -> float:

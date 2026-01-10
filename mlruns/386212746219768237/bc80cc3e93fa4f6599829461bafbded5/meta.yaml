@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Official%20Work/MLOps/PROJECTS/mlops-project/mlruns/386212746219768237/bc80cc3e93fa4f6599829461bafbded5/artifacts
+deleted_time: 1768058150768
+end_time: 1768058087357
+entry_point_name: ''
+experiment_id: '386212746219768237'
+lifecycle_stage: deleted
+run_id: bc80cc3e93fa4f6599829461bafbded5
+run_name: model_training
+run_uuid: bc80cc3e93fa4f6599829461bafbded5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768058009655
+status: 4
+tags: []
+user_id: Mekala Abhilash

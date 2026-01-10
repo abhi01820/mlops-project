@@ -9,4 +9,5 @@ dill
 fastapi
 uvicorn
 pydantic
+mlflow
 # -e .
