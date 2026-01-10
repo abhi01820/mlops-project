@@ -10,9 +10,9 @@ application-level DevOps or cloud infrastructure.
 
 
 ---
+## 🔁 Project Structure
 
-```
-## 🔁 Project Structure 
+
 ```text
 education-analytics-mlops/
 │
@@ -158,6 +158,14 @@ Example input:
   "reading_score": 72,
   "writing_score": 74
 }
+```
+## 🚀 Dockerized Prediction Service
+
 
 ```
-![Education Analytics MLOps Platform](banner.png)
+```
+<p align="center">
+  <img src="banner.png" alt="Education Analytics MLOps Platform" width="800"/>
+</p>
+
+
